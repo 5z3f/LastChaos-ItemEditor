@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <title>Ace Winforms</title>
+    <style type="text/css" media="screen">
+        #editor {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+        .ace_scrollbar {
+		    display: none !important;
+		}
+    </style>
+</head>
+<body>
+    
+    <!-- Content will be replaced by winforms -->
+    <div id="editor"></div>
+
+    <!-- Found this hosted version of ace.js, but you could include the -->
+    <script src="http://cdn.jsdelivr.net/ace/1.1.01/min/ace.js" type="text/javascript" charset="utf-8"></script>
+    
+    <script>
+        var ed = ace.edit("editor");
+        ed.setTheme("ace/theme/{{theme}}");
+        ed.getSession().setMode("ace/mode/{{highlighter}}");
+
+        // Called from C# 
+        function getAceEditorText()
+        {
+            return ed.getValue();
+        }
+        
+        // Called from C#
+        function setAceEditorText(s) {
+            ed.setValue(s, 1)
+        }
+        
+
+    </script>
+</body>
+</html>

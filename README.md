@@ -7,7 +7,7 @@
 
 One of my old projects which I sadly did not finish, sharing for educational purposes, it's not complete tool.\
 It was mostly based on **Wizatek's ItemAll Editor**, so credits goes to him too.\
-**@Karmel0x** was helping me in that time with it too so I guess I should credit him aswell.
+**[@Karmel0x](https://github.com/Karmel0x/)** was helping me in that time with it too so I guess I should credit him aswell.
 
 ## Features:
 - Optimized L-Chaos Texture reading class, added ```old file (Version 4)``` and ```DXT5``` support, added texture flags viewer

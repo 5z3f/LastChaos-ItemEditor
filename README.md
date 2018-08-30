@@ -1,9 +1,13 @@
 # L-Chaos Item Editor
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-windows-green.svg)
+![license](https://img.shields.io/github/license/IhsotasOtomakan/LastChaos-Item-Editor.svg)
+
 ![image1](http://grabilla.com/0881e-6252a273-2e60-4bb5-8e45-2ef07288901e.png)
 
 One of my old projects which I sadly did not finish, sharing for educational purposes, it's not complete tool.\
-It was mostly based on Wizatek's ItemAll Editor, so credits goes to him too.\
-@Karmel was helping me in that time with it too so I guess I should credit him aswell.
+It was mostly based on **Wizatek's ItemAll Editor**, so credits goes to him too.\
+**@Karmel0x** was helping me in that time with it too so I guess I should credit him aswell.
 
 ## Features:
 - Optimized L-Chaos Texture reading class, added ```old file (Version 4)``` and ```DXT5``` support, added texture flags viewer
@@ -29,6 +33,10 @@ It was mostly based on Wizatek's ItemAll Editor, so credits goes to him too.\
 - ModelInformation form is not completed, the idea was to get all textures from actual displaying model in DX panel and show its data/flags and rest data here
 - Effect.dat reader, I've already started writing it on cEffect class
 
+## Download
+  - [Here](http://grabilla.com/0881e-6c9357f3-d8d4-48a2-b466-8e7dac655e9a.zip) is compiled version
+
 ## Donate
-- If you want to support me throught cryptocurrency here's my XMR address
-42NRbCTQfZc7jMgJMwoKnQg26j8mzbHBZPecWJu4zpmJ4t5mHHWdLLa8qBqWhJ3BBUC2VLZjX39ENafMss1TnvDvNsQVUPM
+- If you want to support me throught cryptocurrency
+  - BTC: 1EPcazBzV2qfyfUuRLoj9qeXmaPGnsKiF6
+  - XMR: 42NRbCTQfZc7jMgJMwoKnQg26j8mzbHBZPecWJu4zpmJ4t5mHHWdLLa8qBqWhJ3BBUC2VLZjX39ENafMss1TnvDvNsQVUPM

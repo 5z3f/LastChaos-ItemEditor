@@ -1,7 +1,7 @@
 # L-Chaos Item Editor
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-windows-green.svg)
-![license](https://img.shields.io/github/license/IhsotasOtomakan/LastChaos-Item-Editor.svg)
+![license](https://img.shields.io/badge/license-GPL%203.0-orange.svg)
 
 ![image1](http://grabilla.com/0881e-6252a273-2e60-4bb5-8e45-2ef07288901e.png)
 

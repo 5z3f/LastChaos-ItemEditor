@@ -3,7 +3,7 @@
 ![Platform](https://img.shields.io/badge/platform-windows-green.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/license-GPL%203.0-orange.svg?style=for-the-badge)
 
-![image1](hhttps://raw.githubusercontent.com/IhsotasOtomakan/LastChaos-ItemEditor/master/preview.png)
+![image1](https://raw.githubusercontent.com/IhsotasOtomakan/LastChaos-ItemEditor/master/preview.png)
 
 One of my old projects which I sadly did not finish, sharing for educational purposes, it's not complete tool.\
 It was mostly based on **Wizatek's ItemAll Editor**, so credits goes to him too.\
